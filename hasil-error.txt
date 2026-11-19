@@ -1,0 +1,13 @@
+
+> google-drive-media-downloader@1.0.0 build
+> vite build
+
+vite v6.4.6 building for production...
+✓ 0 modules transformed.
+✗ Build failed in 18ms
+error during build:
+Could not resolve entry module "index.html".
+    at getRollupError (file:///workspaces/google-drive-media-downloader/node_modules/rollup/dist/es/shared/parseAst.js:355:41)
+    at error (file:///workspaces/google-drive-media-downloader/node_modules/rollup/dist/es/shared/parseAst.js:351:42)
+    at ModuleLoader.loadEntryModule (file:///workspaces/google-drive-media-downloader/node_modules/rollup/dist/es/shared/node-entry.js:23634:20)
+    at async Promise.all (index 0)
