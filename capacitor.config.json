@@ -1,0 +1,5 @@
+{
+	"appId": "com.googlemedia.downloader",
+	"appName": "Google Drive Media Downloader",
+	"webDir": "dist"
+}
